@@ -4,3 +4,6 @@
 [submodule "SQL-Oscar-Winner-Database"]
 	path = SQL-Oscar-Winner-Database
 	url = https://github.com/Shrikanthcodes/SQL-Oscar-Winner-Database.git
+[submodule "Flask-Patient-DB"]
+	path = Flask-Patient-DB
+	url = https://github.com/Shrikanthcodes/Flask-Patient-DB.git
