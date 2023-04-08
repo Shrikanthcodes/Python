@@ -10,3 +10,6 @@
 [submodule "Detecting-Identical-Images"]
 	path = Detecting-Identical-Images
 	url = https://github.com/Shrikanthcodes/Detecting-Identical-Images.git
+[submodule "Retinopathy-python"]
+	path = Retinopathy-python
+	url = https://github.com/Shrikanthcodes/Retinopathy-python.git
