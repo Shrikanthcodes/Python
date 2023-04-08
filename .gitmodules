@@ -1,15 +1,9 @@
 [submodule "VoiceBot"]
 	path = VoiceBot
 	url = https://github.com/Shrikanthcodes/VoiceBot.git
-[submodule "SQL-Oscar-Winner-Database"]
-	path = SQL-Oscar-Winner-Database
-	url = https://github.com/Shrikanthcodes/SQL-Oscar-Winner-Database.git
-[submodule "Flask-Patient-DB"]
-	path = Flask-Patient-DB
-	url = https://github.com/Shrikanthcodes/Flask-Patient-DB.git
 [submodule "Detecting-Identical-Images"]
 	path = Detecting-Identical-Images
 	url = https://github.com/Shrikanthcodes/Detecting-Identical-Images.git
-[submodule "Retinopathy-python"]
-	path = Retinopathy-python
-	url = https://github.com/Shrikanthcodes/Retinopathy-python.git
+[submodule "SQL-Oscar-Winner-Database"]
+	path = SQL-Oscar-Winner-Database
+	url = https://github.com/Shrikanthcodes/SQL-Oscar-Winner-Database.git
