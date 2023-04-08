@@ -7,3 +7,6 @@
 [submodule "Flask-Patient-DB"]
 	path = Flask-Patient-DB
 	url = https://github.com/Shrikanthcodes/Flask-Patient-DB.git
+[submodule "Detecting-Identical-Images"]
+	path = Detecting-Identical-Images
+	url = https://github.com/Shrikanthcodes/Detecting-Identical-Images.git
