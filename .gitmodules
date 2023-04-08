@@ -1,3 +1,6 @@
 [submodule "VoiceBot"]
 	path = VoiceBot
 	url = https://github.com/Shrikanthcodes/VoiceBot.git
+[submodule "SQL-Oscar-Winner-Database"]
+	path = SQL-Oscar-Winner-Database
+	url = https://github.com/Shrikanthcodes/SQL-Oscar-Winner-Database.git
